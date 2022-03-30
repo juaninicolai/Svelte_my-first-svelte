@@ -2,7 +2,8 @@
 
 This is a project based on a tutorial from The Net Ninja (https://netninja.dev).
 
-#Topics covered:
+Topics covered:
+
 1. Svelte basics
 2. Data binding & inputs
 3. Reactive values
